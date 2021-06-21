@@ -1,0 +1,13 @@
+span {
+   /* display: block;*/
+   /*display: inline-block;*/
+   display: none;
+    margin: 20px;
+    pad: 20px;
+}
+
+div{
+    /*display: inline;*/
+    margin: 20px;
+    pad: 20px;
+}
